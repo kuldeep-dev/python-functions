@@ -1,0 +1,10 @@
+(lp0
+S'kuldeep'
+p1
+aS'chotu'
+p2
+aS'rohan'
+p3
+aS'amit'
+p4
+a.
